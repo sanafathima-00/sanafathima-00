@@ -42,3 +42,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanafathima-00&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [Portfolio Website](https://sanafathima.netlify.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sana-fathima-2156792a9)
