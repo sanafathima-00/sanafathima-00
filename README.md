@@ -57,6 +57,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sana-fathima-2156792a9" target="_blank">
-    <img src="linkedin.svg" alt="LinkedIn" height="80" />
+    <img src="linkedin.svg" alt="LinkedIn" height="100" />
   </a>
 </p>
