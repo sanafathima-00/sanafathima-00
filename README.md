@@ -13,6 +13,7 @@
   </tr>
 </table>
 
+---
 
 ### 🛠️ My Skills
 
@@ -31,6 +32,8 @@
   <img src="python.svg" alt="Python" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="ml.png" alt="Machine Learning" height="50" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
