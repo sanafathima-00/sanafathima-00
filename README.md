@@ -3,7 +3,16 @@
 
 ### 🛠️ My Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="c.png" alt="C" width="40" style="margin-right:10px;" />
+  <img src="css.svg" alt="CSS" width="40" style="margin-right:10px;" />
+  <img src="expjs.png" alt="Express.js" width="40" style="margin-right:10px;" />
+  <img src="git.png" alt="Git" width="40" style="margin-right:10px;" />
+  <img src="html.svg" alt="HTML" width="40" style="margin-right:10px;" />
+  <img src="java.png" alt="Java" width="40" style="margin-right:10px;" />
+  <img src="javascript.svg" alt="JavaScript" width="40" style="margin-right:10px;" />
+  <img src="ml.png" alt="Machine Learning" width="40" style="margin-right:10px;" />
+  <img src="mongodb.svg" alt="MongoDB" width="40" style="margin-right:10px;" />
+  <img src="nodejs.png" alt="Node.js" width="40" style="margin-right:10px;" />
+  <img src="python.svg" alt="Python" width="40" style="margin-right:10px;" />
+</p>
