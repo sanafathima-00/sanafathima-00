@@ -51,5 +51,12 @@
 
 ### 🌐 Connect with Me
 
-- 💼 [Portfolio Website](https://sanafathima.netlify.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sana-fathima-2156792a9)
+<p align="left">
+  <a href="https://sanafathima.netlify.app/" target="_blank">
+    <img src="portfolio.svg" alt="Portfolio" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sana-fathima-2156792a9" target="_blank">
+    <img src="linkedin.svg" alt="LinkedIn" height="50" />
+  </a>
+</p>
