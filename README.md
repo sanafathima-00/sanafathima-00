@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanafathima-00&show_icons=true&theme=tokyonight" alt="Sana's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanafathima-00&theme=tokyonight" alt="GitHub Streak Stats" />
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanafathima-00&theme=tokyo-night)
 </p>
 
 ---
