@@ -1,4 +1,4 @@
-<table style="border: none; border-collapse: collapse;">
+<table>
   <tr>
     <td width="60%">
       <h2 align="left">Hey there! I'm Sana Fathima</h2>
@@ -31,3 +31,19 @@
   <img src="ml.png" alt="Machine Learning" height="50" />
 </p>
 
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sanafathima-00&show_icons=true&theme=tokyonight" alt="Sana's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanafathima-00&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanafathima-00&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
