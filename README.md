@@ -53,10 +53,11 @@
 
 <p align="left">
   <a href="https://sanafathima.netlify.app/" target="_blank">
-    <img src="portfolio.svg" alt="Portfolio" height="50"/>
+    <img src="portfolio.svg" alt="Portfolio" height="40" style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sana-fathima-2156792a9" target="_blank">
-    <img src="linkedin.svg" alt="LinkedIn" height="100" />
+    <img src="linkedin.svg" alt="LinkedIn" height="40" style="vertical-align: middle;" />
   </a>
 </p>
+
